@@ -1,9 +1,9 @@
-<H3>Vimala Sahana W </H3>
-<H3>212223040241</H3>
-<H3>02-09-2025</H3>
-<H3>Experiment No. 2 </H3>
-## Implementation of Perceptron for Binary Classification
-# AIM:
+## Name:VIMALA SAHANA W
+## Reg No:212223040241
+## Date:02-09-25
+## Experiment No. 2 
+# Implementation of Perceptron for Binary Classification
+## AIM:
 To implement a perceptron for classification using Python<BR>
 
 # EQUIPMENTS REQUIRED:
