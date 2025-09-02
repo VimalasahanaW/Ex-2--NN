@@ -2,7 +2,7 @@
 ## Reg No:212223040241
 ## Date:02-09-25
 ## Experiment No. 2 
-# Implementation of Perceptron for Binary Classification
+## Implementation of Perceptron for Binary Classification
 ## AIM:
 To implement a perceptron for classification using Python<BR>
 
